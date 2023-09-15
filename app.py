@@ -1,4 +1,5 @@
 # ///////////////////////////////////////////////////////////////////////
+<<<<<<< HEAD
 # Projeto bot Espelho de notas (Envio por e-mail para os fornecedores)
 # V: 1.1
 # 
@@ -17,6 +18,13 @@
 # CONSIDERE SEMPRE
 # 1 - - Encapsulamento das Credenciais: Não é uma prática segura incluir senhas diretamente no código. Você pode usar variáveis de ambiente ou um arquivo de configuração externo para armazenar informações sensíveis.
 #
+=======
+# Por: Renalt Silva (https://github.com/NaltAirCode/NaltAirCode)
+# Melhoria realizada Por: Marcelo Nogueira (https://github.com/manofox)
+# Data da Melhoria: 15/09/2023
+# Projeto bot Espelho de notas (Envio por e-mail para os fornecedores)
+# V: 1.1
+>>>>>>> d532ec4530bcc222ea95e5424579554021c6f331
 # # //////////////////////////////////////////////////////////////////////
 
 import datetime
